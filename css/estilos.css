@@ -1,0 +1,16 @@
+.imagen-test {
+	width: 160px !important;
+	height: 160px;
+	margin: auto;
+}
+
+.p-ups {
+	font-size: 30px;
+	color: white;
+	font-style: oblique;
+}
+
+.checked {
+	color: orange;
+	margin-top: 35px;
+}
