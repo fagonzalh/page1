@@ -1,6 +1,6 @@
 .imagen-test {
-	width: 160px !important;
-	height: 160px;
+	width: 300px !important;
+	height: 200px;
 	margin: auto;
 }
 
@@ -13,4 +13,47 @@
 .checked {
 	color: orange;
 	margin-top: 35px;
+}
+
+.readmore {
+	transform: translate(0, 2);
+	transition: all ease 2s;
+}
+
+.single-project.aires img {
+	width: 100px !important;
+	height: 200px !important;
+}
+
+.single-project.ups img {
+	width: 125px !important;
+	height: 225px !important;
+	margin: auto;
+}
+
+
+.single-project.ups img.imagen-4 {
+	width: 150px !important;
+	height: 245px !important;
+	margin: auto;
+}
+
+
+.single-project.ups img.imagen-5 {
+	width: 100% !important;
+	height: 105px !important;
+	margin: 25px 0;
+}
+
+.single-project.baterias img {
+	width: auto !important;
+	height: auto !important;
+}
+
+.footer-section {
+	background-color: #014990;
+}
+
+.footer-section .copyright {
+	color: white;
 }

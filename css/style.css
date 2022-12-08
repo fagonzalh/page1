@@ -727,7 +727,7 @@ ol {
 }
 
 .service-box .sb-icon .sb-img-icon img {
-	opacity: 0.2;
+	opacity: 0.8;
 	max-height: 70px;
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
@@ -801,7 +801,7 @@ ol {
 	width: 50%;
 	height: 100%;
 	left: 0;
-	background-image: url("../img/paneles/banner7.webp");
+	background-image: url("../img/paneles/banner21.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
