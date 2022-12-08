@@ -57,3 +57,30 @@
 .footer-section .copyright {
 	color: white;
 }
+
+.divider {
+	width: 100%;
+	height: 1px;
+	background: #dfdfdf;
+	margin-bottom: 100px;
+}
+
+#servicios {
+	padding-top: 0;
+}
+
+@media only screen and (max-width: 767px) {
+	.projects-filter-nav {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.projects-filter-nav .btn-filter {
+		margin-left: 0;
+	}
+
+	/* 
+	.owl-carousel .owl-item {
+		margin: auto 10px;
+	} */
+}
