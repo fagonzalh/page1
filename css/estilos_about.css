@@ -74,6 +74,10 @@
 	padding: 0;
 }
 
+.ts-item h2 {
+	color: white;
+}
+
 
 .slide-num-holder.test-slider {
 	right: auto;
